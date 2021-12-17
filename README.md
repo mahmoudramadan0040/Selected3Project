@@ -3,7 +3,8 @@ this project is try to classification multiple arabic books based of information
 that is scrapping from web site and try to classify it based on the type of book like ("ادب"- " ثقافة عامة",etc..).
 
 # scrappping Data
-** we scrapping data from this website https://www.arab-books.com/ **
+*
+*  we scrapping data from this website https://www.arab-books.com/ **
 ** we make scrapping for some data in this website **
 
 > Title of books
