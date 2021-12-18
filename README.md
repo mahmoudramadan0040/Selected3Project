@@ -1,5 +1,5 @@
 # team members 
-1- 20180557 محمود رمضان احمد عبده 
+1- محمود رمضان احمد عبده 20180557  
 
 2- محمد مصطفي عبد العال 20180541 
 
@@ -7,7 +7,7 @@
 
 4- كريم عوض مكرم بهجات 20180434
 
-5- 20180593 مصطفي حمدي خليل 
+5- مصطفي حمدي خليل20180593   
 # Selected3Project
 this project is try to classification multiple arabic books based of information that scrapping from this website https://www.arab-books.com/
 that is scrapping from web site and try to classify it based on the type of book like ("ادب"- " ثقافة عامة",etc..).
